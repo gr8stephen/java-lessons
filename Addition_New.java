@@ -11,6 +11,10 @@ public class Addition_New {
         number2 = input.nextInt();
         sum =number1 + number2 ;
         System.out.println("sum = " + sum ); 
+        input.close();
+        
 
     }
+
+
 }
